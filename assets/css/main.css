@@ -1003,6 +1003,13 @@ table tfoot td {
   font-weight: 700;
 }
 
+.about a {
+  font-size: 11px !important;
+  color: inherit !important;
+  font-weight: 500;
+  text-decoration: none;
+}
+
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
@@ -1106,6 +1113,12 @@ footer .copyright {
   font-size: 14px;
   text-align: center;
   margin: 0;
+}
+
+footer .copyright a{
+    text-decoration: none;
+    color: inherit !important;
+    font-weight: 700;
 }
 
 .post {

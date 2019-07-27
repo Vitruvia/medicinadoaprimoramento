@@ -9,7 +9,7 @@ layout: default
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
       </div>
       <div class="site-name">{{site.sitename}}</div>
-      <div class="author-name">Por {{site.author}}</div>
+      <div class="author-name">Por <a href="https://www.instagram.com/{{site.author-instagram}}">{{site.author}}</a></div>
       <p>{{site.about-site}}</p>
     </div>
   </header> <!-- End Header -->
@@ -35,7 +35,7 @@ layout: default
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      <p>{{site.time | date: '%Y'}} &copy; <a href="https://www.instagram.com/{{site.author-instagram}}">{{site.author}}</a></p>
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
