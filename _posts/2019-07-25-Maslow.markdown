@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Hierarquia de necessidades de Maslow"
+date:   25-07-2019
+img: Maslow_post_1.jpg
+---
+
+O que nos motiva e o que afeta nossa satisfação pessoal?
+Foi essa pergunta que levou Abraham Maslow a desenvolver uma hierarquia de necessidades. Nela, ele ilustra uma hierarquia das necessidades de um indivíduo, desde as mais básicas, relacionadas à sobrevivência, até as mais refinadas, relacionadas à realização pessoal. Essa hierarquia é constituída pelos seguintes níveis, do mais baixo ao mais alto:⠀
+1. Necessidades fisiológicas: água, abrigo, sono, reprodução.
+2. Segurança: proteção física, propriedade privada, saúde, emprego.
+3. Amor e pertencimento: amizades, família, intimidade, conexão.
+4. Estima: Respeito dos outros, autoestima, status, reconhecimento
+5. Autorrealização: alcançar o máximo do próprio potencial, buscar crescimento pessoal
+
+![Pirâmide de Maslow]({{site.url}}{{site.baseurl}}/assets/img/Maslow1.jpg)
+
+⠀Entre os anos 60 e os anos 80, Maslow adicionou os níveis cognitivo, estético, e transcendental à pirâmide. De acordo com ele, os 4 níveis mais baixos da pirâmide diriam respeito à "deficiências" que precisariam ser satisfeitas até certo ponto antes que o indivíduo passasse a se importar com o próximo nível, e caso uma necessidade mais inferior não fosse satisfeita, ela se tornaria dominante e todo o ser passaria a funcionar ao redor dela.⠀O modelo de Maslow é amplamente criticado, pois nem sempre esse padrão de dominância ocorre. Além disso, ele desconsidera variações individuais e socioculturais. Talvez fosse mais correto se, em vez de pirâmide, a estrutura fosse uma teia em que cada elemento influenciasse o outro, e a exata importância de cada elemento variasse entre indivíduos, a depender de sua criação e condição atual.⠀De qualquer forma, as ideias de Maslow são uma ótima forma de nos estimular a pensar nos aspectos que possam influenciar nossa satisfação pessoal. Se você se sente insatisfeito ou sente dificuldade em progredir em alguma área (ex: emprego), verifique se não está negligenciando algum outro elemento da pirâmide, como autoimagem ou sociabilidade.
+
+![Pirâmide de Maslow Revisada]({{site.url}}{{site.baseurl}}/assets/img/Maslow2.jpg)
+
+IMAGENS: https://www.simplypsychology.org/maslow.html
+
+
+REFERÊNCIAS
+1. McLeod, S. A. (2018, May 21). Maslow's hierarchy of needs. Retrieved from https://www.simplypsychology.org/maslow.html
+2. Maslow reconsidered: A review of research on the need hierarchy theory.
+
+
+

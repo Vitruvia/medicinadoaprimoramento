@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Andrógenos e acne"
+date:   25-07-2019
+img: Steroid_Acne.jpg
+---
+
+Embora os efeitos cardiovasculares sejam os mais prevalentes com o uso de esteroides anabolizantes (EAs), a mídia costuma enfatizar outros colaterais, como problemas hepáticos, acne, e abcessos. Neste post, falaremos sobre a influência dos EAs no aparecimento e/ou exacerbação da acne, mas antes vamos entender como ela ocorre.
+
+Nossa pele é repleta da glândulas sebáceas, que produzem um substância gordurosa para lubrificar nossa pele. Quando essas glândulas entopem, elas podem infeccionar e gerar pústulas ou cistos que conhecemos como "espinhas". Certas condições favorecem o entupimento e inflamação das glândulas, como crescimento glandular exacerbado e irregular, produção elevada de sebo, hiperqueratinização das células que revestem a glândula, o que facilita a sua obstrução, e processos inflamatórios, que podem ser consequência de tudo isso ou podem ser causados por alimentação ou alguma outra condição patológica.
+
+Mas onde os EAs entram? Acontece que as glândulas sebáceas possuem receptores para andrógenos, que aumentam a produção de sebo e podem até ativar diretamente fatores inflamatórios como IL-6 e TNF-alfa. Além disso, essas glândulas são capazes de converter hormônios como Testosterona, DHEA e 17-hydroxyprogesterona diretamente para DHT, andrógeno mais poderoso que a testosterona, logo qualquer EA que aumente os níveis desses hormônios ou que emule o DHT diretamente pode causar acne.
+
+A progesterona, por sua vez, tem papel controverso, e o estradiol, que muitos culpam por esse efeito adverso, parece ter um efeito protetor na maioria dos casos.
+
+É claro que os efeitos variam entre indivíduos, pois nem todos têm a mesma densidade de receptores androgênicos nas glândulas sebáceas e nem reagem igualmente quando eles são ativados. Também importante é a influência multifatorial na gênese da acne. Fatores de crescimento como o IGF-1, por exemplo, estão relacionados com sua patogênese, e podem estar elevados devido à dieta, ao uso de hormônios, a fatores genéticos, ou a outros fatores ambientais não descritos.
+
+
+Se você faz uso de EAs e sofre de acne, pode ser que tenha alguma predisposição e que apenas a interrupção da droga resolva seus problemas. No entanto, você pode tentar reduzir esse efeito ao diminuir as dosagens, usar outra droga, e não abusar de inibidores de aromatase nem de EAs que exerçam este mesmo efeito.
+
+Referências
+1.	https://www.sciencedirect.com/science/article/pii/S0738081X16302656
+2.	https://www.uptodate.com/contents/pathogenesis-clinical-manifestations-and-diagnosis-of-acne-vulgaris?search=acne&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2
+3.	http://www.jpad.com.pk/index.php/jpad/article/view/398/373
+4.	https://www.sciencedirect.com/science/article/pii/S0301211517300623
+5.	https://escholarship.org/uc/item/6wm945xf
+6.	https://www.sciencedirect.com/science/article/pii/S0738081X04000434
+7.	https://www.sciencedirect.com/science/article/pii/S0009912011013932
+
+
+
+
