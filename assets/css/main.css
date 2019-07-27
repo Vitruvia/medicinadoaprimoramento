@@ -1157,7 +1157,7 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 400;
 }
 
@@ -1169,6 +1169,10 @@ footer .copyright {
 
 .post .post-content p {
   margin-top: 0;
+}
+
+.post-content{
+    font-size: 16px !important;
 }
 
 a.older-posts, a.newer-posts {
@@ -1321,6 +1325,7 @@ a.newer-posts:hover {
 }
 
 .blog-tags h2 {
+  font-family: "Times New Roman"";
   color: #263959;
   margin: 10px 0;
 }
