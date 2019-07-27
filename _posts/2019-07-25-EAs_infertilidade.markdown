@@ -2,7 +2,7 @@
 layout: post
 title:  "Esteroides anabolizantes e infertilidade masculina"
 date:   25-07-2019
-img: steroid_infertility_male2.jpg
+img: Steroid_infertility_male2.jpg
 ---
 
 A infertilidade é a incapacidade de se reproduzir via intercurso sexual. É diferente da disfunção erétil, e mesmo que o órgão sexual funcione, é possível tornar-se infértil mediante uso de esteroides anabolizantes (EAs).
