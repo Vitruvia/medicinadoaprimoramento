@@ -5,8 +5,6 @@ date:   08-09-2019
 img: OxandroloneMolecule.png
 ---
 
-### Oxandrolona, perfil
-
 A oxandrolona é um derivado do DHT descrito em 1962 e lançado no mercado alguns anos depois.
 Seu primeiro nome comercial foi Anavar, e ela ainda é conhecida assim internacionalmente,
 embora ela já não seja vendida com este nome há anos.
