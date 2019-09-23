@@ -34,14 +34,14 @@ Estanozolol é 17-&alpha; alquilado (17AA) e portanto é hepatotóxico. A forma 
 no mercado. Essa droga também está disponível na forma injetável, que pode ser menos tóxica
 por não sofrer o efeito de primeira passagem, mas essa afirmação ainda carece de evidências.
 
-<img src="/assets/img/EstanozololMolecule.png" style="width:600px; height:400px;"/>
+<img src="/assets/img/StanozololMolecule.png" style="width:600px; height:400px;"/>
 
 O estanozolol injetável pode vir em forma aquosa ou oleosa. A forma aquosa favorece 
 a multiplicação bacteriana, e portanto aumenta o risco de infecções e abcessos após
 injeção. Nenhuma das preparações vem em forma esterificada, o que aumenta a cristalização
 no local de injeção e pode provocar maiores dores do que outros medicamentos injetáveis.
 
-Assim como outras drogas 17AA e drogas com alto poder androgênico, stano costuma reduzir de
+Assim como outras drogas 17AA e andrógenos em geral, stano costuma reduzir de
 forma importante os níveis de HDL e elevar os níveis de LDL, aumentando assim o risco de
 eventos cardiovasculares.
 
