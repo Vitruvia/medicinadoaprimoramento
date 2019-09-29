@@ -26,7 +26,7 @@ quantidade correta, e que ainda interagissem de forma adequada com todas as outr
 ali presentes. Assim surgiu o sistema endócrino.
 
 <figure>
-<img src="/assets/img/Hormones_signaling2.jpg" style="width:500px; height:300px;"/>
+<img src="/assets/img/Hormones_signaling2.jpg" style="width:700px; height:400px;"/>
 <figcaption style="font-style: italic;"> Imagem de: https://www.frontiersin.org/files/Articles/245604/fendo-08-00002-HTML/image_m/fendo-08-00002-g001.jpg</figcaption>
 </figure>
 
