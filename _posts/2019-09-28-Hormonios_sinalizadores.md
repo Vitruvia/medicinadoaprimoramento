@@ -40,7 +40,7 @@ usarmos essas ferramentas da melhor forma possível, precisamos nos atentar para
 papel no organismo e suas limitações.
 
 Alterar a sinalização de um hormônio pode afetar outros eixos hormonais,
-pois eles estão todos interligados. Além disso, o hormônio só funciona corretamente se
+pois eles estão todos interligados. Além disso, ele só funciona corretamente se
 atingir em quantidades adequadas as células-alvo, e apenas se estas forem capazes
 de reconhecer a mensagem enviada (receptores) e se possuírem a maquinaria para responder ao
 à ela (genes e proteínas intracelulares).
