@@ -56,3 +56,9 @@ doses maiores sejam usuais.
 
 Esta esteroide é pouco virilizante, e está entre os favoritos
 das mulheres, que utilizam doses de 50-100mg/semana.
+
+
+### Referências
+
+1. Anabolics, 10th edition, por William Llwellyn
+2. Anabolic Pharmacology, 1st edition, por Seth Roberts
