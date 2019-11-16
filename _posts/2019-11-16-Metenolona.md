@@ -33,7 +33,7 @@ incomum vê-la no protocolos básicos.
 
 No Brasil, o primobolan é fornecido apenas por laboratórios clandestinos, e mesmo assim
 a taxa de falsificação é alta. As preparações incluem a forma oral e a forma injetável,
-que pode conter ésteres de meia-vida curta (gearlmente acetato) ou meia-vida longa.
+que pode conter ésteres de meia-vida curta (geralmente acetato) ou meia-vida longa.
 As doses utilizadas em homens giram em torno de 75-150mg/dia. Como a droga possui
 baixo poder androgênico, ela é também usada entre mulheres, que utilizam entre 50-75mg/dia.
 
